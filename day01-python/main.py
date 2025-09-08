@@ -12,6 +12,7 @@ print("原始文本：", sample_text)
 
 # 试试统计基本信息
 text_length = len(sample_text)
+
 print("文本总长度：", text_length)
 
 # 把文本分割成单词列表，去除标点符号
